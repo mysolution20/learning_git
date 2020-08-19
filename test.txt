@@ -1,1 +1,2 @@
 Przykładowy tekst 123. Moduł Kodilla 25.
+Zmiany na pliku, do treningu git pull
